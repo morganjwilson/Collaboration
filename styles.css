@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.image-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title-header {
+  text-align: center;
+}
+
+.chart-of_pies {
+  margin-left: 50px;
+  margin-bottom: 10px;
+}
+
+.dot {
+  height: 15px;
+  width: 15px;
+  background-color: blue;
+  border-radius: 50%;
+  display: inline-block;
+  display: flex;
+  margin: 0;
+}
+
+.lis-dots {
+  display: flex;
+  justify-content: center;
+}
+
+.text-dot_list {
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 20px;
+}
+
+.percentage {
+  margin-left: 6px;
+}
+.edit-expenses {
+  margin-top: 40px;
+  text-align: center;
+}
+.edit-expenses_additions {
+  padding: 2px 25px;
+}
